@@ -1,5 +1,19 @@
 # Quantitative Trading Research System — Long Trend High Momentum Strategy
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 A systematic backtesting framework for evaluating momentum-based equity trading strategies across S&P 500 and NASDAQ universes. The core strategy, Long Trend High Momentum (LTHM), combines moving average trend filters with momentum ranking, ATR-based stop-loss management, and trailing stop exits. Built entirely in Python using backtesting.py and yfinance.
 
 ---
@@ -191,22 +205,14 @@ These are the final parameter values used in `05_strategy_v3_3.ipynb`:
 
 ---
 
-## Author
-
-**Abdul Rehman Rattu**
-Founder and CEO, Rapide Technologies
-
-- Email: rattu786.ar@gmail.com
-- LinkedIn: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
-
 ---
 
-## License
+## Author & Maintainer
 
-This project is released under the MIT License. You are free to use, modify, and distribute it with attribution.
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
 
----
-
-## Disclaimer
-
-This project is for research and educational purposes only. The backtested results presented do not represent actual trading performance and are not a guarantee of future results. Past performance of a simulated strategy is not indicative of future returns. Do not make investment decisions based solely on backtested data.
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
