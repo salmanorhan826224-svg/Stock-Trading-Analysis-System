@@ -3,12 +3,14 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Quant-Momentum%20%7C%20Trend%20Following-0052FF.svg" alt="Quant">
+<img src="https://img.shields.io/badge/Analytics-Pandas%20%7C%20NumPy-150458.svg?logo=pandas&logoColor=white" alt="Analytics">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -202,6 +204,8 @@ These are the final parameter values used in `05_strategy_v3_3.ipynb`:
 | ATR Trailing Multiplier | 3.0x | Trailing stop distance in ATR units |
 | Min Dollar Volume | $50M/day | Liquidity filter threshold |
 | Initial Capital | $100,000 | Starting equity for all backtests |
+
+---
 
 ---
 
