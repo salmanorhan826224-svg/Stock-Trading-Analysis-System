@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Analytics-Pandas%20%7C%20NumPy-150458.svg?logo=pandas&logoColor=white" alt="Analytics">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
-**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+**Enterprise-grade, high-performance implementation built and maintained by Muhammad Salman.**
 
 [Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
@@ -149,7 +149,7 @@ quantitative-trading-system/
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/AbdulRehmanRattu/quantitative-trading-system.git
+git clone https://github.com/salmanorhan826224-svg/quantitative-trading-system.git
 cd quantitative-trading-system
 ```
 
@@ -213,10 +213,11 @@ These are the final parameter values used in `05_strategy_v3_3.ipynb`:
 
 ## Author & Maintainer
 
-**Abdul Rehman Rattu**  
-*Forward Deployed AI Engineer & Solutions Architect*  
-*Founder & Technical Lead, Rapide Technologies*
+**Muhammad Salman**  
+*Business Developer & Data Analyst*  
+**
 
-* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
-* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
-* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
+* **Email**: [salmanorhan826224@gmail.com](mailto:salmanorhan826224@gmail.com)
+* **LinkedIn**: [linkedin.com/in/muhammad-salman-9a6052301](https://www.linkedin.com/in/muhammad-salman-9a6052301)
+* **GitHub**: [github.com/salmanorhan826224-svg](https://github.com/salmanorhan826224-svg)
+
